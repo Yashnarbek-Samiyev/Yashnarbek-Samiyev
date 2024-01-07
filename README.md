@@ -5,7 +5,7 @@ I'm a passionate software developer based Uzbekistan. I enjoy working on various
 #### About Me
 
 - 🔭 I’m currently working on InstagramClone and Microservice.
-- 🌱 I’m currently learning [specific technology or skill you're learning].
+- 🌱 I’m currently learning [ FastAPI, Redis ]
 - 👯 I’m looking to collaborate on [types of projects or areas of interest].
 - 💬 Ask me about any specific topic you're knowledgeable about
 - 📫 How to reach me: Email: yashnarsamiyev2@gmail.com T.me: https://t.me/yashnarsamiyev
