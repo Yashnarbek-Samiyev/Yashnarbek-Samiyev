@@ -73,8 +73,8 @@ Feel free to tailor this list based on the tools you commonly use in your workfl
 
 #### Let's Connect
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Instagram: [My Twitter Profile](https://twitter.com/your-twitter-handle)
+- LinkedIn: [My LinkedIn Profile]()
+- Instagram: [My Instagram Profile](https://www.instagram.com/samiyevyashnarbek/)
 - Portfoli: [My to your portfolio or personal website]
 - Telegram Channel: https://t.me/yashnarbekdev
 
