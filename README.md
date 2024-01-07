@@ -73,8 +73,9 @@ Feel free to tailor this list based on the tools you commonly use in your workfl
 
 #### Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-handle)
-- Portfolio: [Link to your portfolio or personal website]
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Instagram: [My Twitter Profile](https://twitter.com/your-twitter-handle)
+- Portfoli: [My to your portfolio or personal website]
+- Telegram Channel: https://t.me/yashnarbekdev
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions! 😊
