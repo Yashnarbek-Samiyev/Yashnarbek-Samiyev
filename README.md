@@ -47,9 +47,6 @@ Here are some technologies I've been working with:
   - [Jenkins](https://www.jenkins.io/)
   - [Travis CI](https://travis-ci.org/)
 
-- **Code Quality:**
-  - [SonarQube](https://www.sonarqube.org/)
-
 - **Database Management:**
   - [DBeaver](https://dbeaver.io/)
   - [MongoDB Compass](https://www.mongodb.com/try/download/compass)
