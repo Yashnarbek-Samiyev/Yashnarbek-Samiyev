@@ -66,7 +66,7 @@ Feel free to tailor this list based on the tools you commonly use in your workfl
 
 #### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashnarbek-Samiyev&show_icons=true&hide_border=true)
 
 #### Let's Connect
 
