@@ -7,9 +7,9 @@ I'm a passionate software developer based Uzbekistan. I enjoy working on various
 
 - 🔭 I’m currently working on  InstagramClone and Microservice.
 - 🌱 I’m currently learning FastAPI, Redis
-- 👯 I’m looking to collaborate on GTROBOTPRO
+- 👯 I’m looking to collaborate on GTROBOTPRO, Best Tools
 - 💬 Ask me about any specific topic you're knowledgeable about
-- 📫 How to reach me: Email: yashnarsamiyev2@gmail.com T.me: https://t.me/yashnarsamiyev
+- 📫 How to reach me: Email: yashnarrbek.samiyev@gmail.com T.me: https://t.me/yashnarsamiyev
 - 💡 Resume vs CV: https://t.me/syashnarbek/130
 
 #### Tech Stack
