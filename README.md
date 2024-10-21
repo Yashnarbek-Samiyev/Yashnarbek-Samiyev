@@ -7,7 +7,7 @@ I'm a passionate software developer based Uzbekistan. I enjoy working on various
 
 - 🔭 I’m currently working on  InstagramClone and Microservice.
 - 🌱 I’m currently learning FastAPI, Redis
-- 👯 I’m looking to collaborate on GTROBOTPRO, Best Tools
+- 👯 I’m looking to collaborate on NEO Insurance Corp.
 - 💬 Ask me about any specific topic you're knowledgeable about
 - 📫 How to reach me: Email: yashnarrbek.samiyev@gmail.com T.me: https://t.me/yashnarsamiyev
 - 💡 Resume vs CV: https://t.me/syashnarbek/130
@@ -16,10 +16,10 @@ I'm a passionate software developer based Uzbekistan. I enjoy working on various
 
 Here are some technologies I've been working with:
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python, JavaScript, PHP
 - Frontend: JavaScript, Jquery, React and VueJs
-- Backend: Python, Django RestAPI Framwork, PostgreSQL,, FastAPI
-- Database: Redis, SQLAlchemy, PostgreSQL
+- Backend: Python, Django RestAPI Framwork, PostgreSQL,Laravel, FastAPI
+- Database: Redis, SQLAlchemy, PostgreSQL, MySQL
 - #### Development Tools
 
 - **Integrated Development Environment (IDE):**
