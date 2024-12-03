@@ -1,80 +1,49 @@
+<h1 align="center">Hi 👋, I'm Yashnarbek</h1>
+<h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 
-### Hi there, I'm Yashnarbek Samiyev 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnarbek-samiyev&label=Profile%20views&color=0e75b6&style=flat" alt="yashnarbek-samiyev" /> </p>
 
-I'm a passionate software developer based Uzbekistan. I enjoy working on various projects and exploring new technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashnarbek-samiyev" alt="yashnarbek-samiyev" /></a> </p>
 
-#### About Me
+<p align="left"> <a href="https://twitter.com/@syashnarbek" target="blank"><img src="https://img.shields.io/twitter/follow/@syashnarbek?logo=twitter&style=for-the-badge" alt="@syashnarbek" /></a> </p>
 
-- 🔭 I’m currently working on Microservice and Insurance DMS platform.
-- 🌱 I’m currently learning Laravel, Redis
-- 👯 I’m looking to collaborate on NEO Insurance Corp.
-- 💬 Ask me about any specific topic you're knowledgeable about
-- 📫 How to reach me: Email: yashnarrbek.samiyev@gmail.com T.me: https://t.me/yashnarsamiyev
-- 💡 Resume vs CV: https://t.me/syashnarbek/130
+- 🔭 I’m currently working on [Insurance DMS corp.](https://agent.neoinsurance.uz)
 
-#### Tech Stack
+- 🌱 I’m currently learning **Laravel and Backend Architecture**
 
-Here are some technologies I've been working with:
+- 👯 I’m looking to collaborate on [Insurance DMS corp.](https://agent.neoinsurance.uz)
 
-- Programming Languages: Python, JavaScript, PHP
-- Frontend: JavaScript, Jquery, React and VueJs
-- Backend: Python, Django RestAPI Framwork, PostgreSQL, Laravel, FastAPI
-- Database: Redis, SQLAlchemy, PostgreSQL, MySQL
-- #### Development Tools
+- 🤝 I’m looking for help with [AI](https://agent.neoinsurance.uz)
 
-- **Integrated Development Environment (IDE):**
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- 👨‍💻 All of my projects are available at [Here](Here)
 
-- **Version Control:**
-  - [Git](https://git-scm.com/)
-  - [GitHub](https://github.com/)
+- 📝 I regularly write articles on [https://medium.com/@yashnarsamiyev2](https://medium.com/@yashnarsamiyev2)
 
-- **Collaboration:**
-  - [Slack](https://slack.com/)
-  - [Microsoft Teams](https://teams.microsoft.com/)
+- 💬 Ask me about **VueJs, Laravel, Django, Python and PHP**
 
-- **Project Management:**
-  - [Trello](https://trello.com/)
-  - [Jira](https://www.atlassian.com/software/jira)
+- 📫 How to reach me **yashnarrbek.samiyev@gmail.com**
 
-- **Communication:**
-  - [Zoom](https://zoom.us/)
-  - [Microsoft Teams](https://teams.microsoft.com/)
+- 📄 Know about my experiences [https://t.me/syashnarbek/133](https://t.me/syashnarbek/133)
 
-- **Containerization:**
-  - [Docker](https://www.docker.com/)
+- ⚡ Fun fact **Investing and Learning**
 
-- **Continuous Integration/Continuous Deployment (CI/CD):**
-  - [Jenkins](https://www.jenkins.io/)
-  - [Travis CI](https://travis-ci.org/)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- **Database Management:**
-  - [DBeaver](https://dbeaver.io/)
-  - [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@syashnarbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@syashnarbek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashnarbek-samiyev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashnarbek-samiyev/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/samiyevyashnarbek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samiyevyashnarbek/" height="30" width="40" /></a>
+<a href="https://medium.com/@yashnarsamiyev2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashnarsamiyev2" height="30" width="40" /></a>
+</p>
 
-- **API Development:**
-  - [Postman](https://www.postman.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- **Browser Developer Tools:**
-  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnarbek-samiyev&show_icons=true&locale=en&layout=compact" alt="yashnarbek-samiyev" /></p>
 
-- **Design and Prototyping:**
-  - [Figma](https://www.figma.com/)
-  - [Adobe XD](https://www.adobe.com/products/xd.html)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnarbek-samiyev&show_icons=true&locale=en" alt="yashnarbek-samiyev" /></p>
 
-Feel free to tailor this list based on the tools you commonly use in your workflow. Additionally, you can add or remove tools depending on your specific needs and preferences.
-
-
-#### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashnarbek-Samiyev&show_icons=true&hide_border=true)
-
-#### Let's Connect
-
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yashnarbek-samiyev/)
-- Instagram: [My Instagram Profile](https://www.instagram.com/samiyevyashnarbek/)
-- Portfoli: Here.
-- Telegram Channel: https://t.me/yashnarbekdev
-
-Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnarbek-samiyev&" alt="yashnarbek-samiyev" /></p>
