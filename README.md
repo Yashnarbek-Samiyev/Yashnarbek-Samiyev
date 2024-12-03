@@ -74,7 +74,7 @@ Feel free to tailor this list based on the tools you commonly use in your workfl
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yashnarbek-samiyev/)
 - Instagram: [My Instagram Profile](https://www.instagram.com/samiyevyashnarbek/)
-- Portfoli: [My to your portfolio or personal website]
+- Portfoli: Here.
 - Telegram Channel: https://t.me/yashnarbekdev
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions! 😊
