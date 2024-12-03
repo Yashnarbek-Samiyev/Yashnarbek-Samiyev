@@ -5,8 +5,8 @@ I'm a passionate software developer based Uzbekistan. I enjoy working on various
 
 #### About Me
 
-- 🔭 I’m currently working on  InstagramClone and Microservice.
-- 🌱 I’m currently learning FastAPI, Redis
+- 🔭 I’m currently working on Microservice and Insurance DMS platform.
+- 🌱 I’m currently learning Laravel, Redis
 - 👯 I’m looking to collaborate on NEO Insurance Corp.
 - 💬 Ask me about any specific topic you're knowledgeable about
 - 📫 How to reach me: Email: yashnarrbek.samiyev@gmail.com T.me: https://t.me/yashnarsamiyev
@@ -18,7 +18,7 @@ Here are some technologies I've been working with:
 
 - Programming Languages: Python, JavaScript, PHP
 - Frontend: JavaScript, Jquery, React and VueJs
-- Backend: Python, Django RestAPI Framwork, PostgreSQL,Laravel, FastAPI
+- Backend: Python, Django RestAPI Framwork, PostgreSQL, Laravel, FastAPI
 - Database: Redis, SQLAlchemy, PostgreSQL, MySQL
 - #### Development Tools
 
